@@ -530,6 +530,15 @@ Definir una nueva dirección:
 
 ---
 
+# imagen y video 
+
+![alt text](image.png)
+
+<video controls src="WhatsApp Video 2026-05-25 at 8.22.09 PM.mp4" title="Title"></video>
+
+
+
+
 # Conclusiones
 
 Este laboratorio permitió comprender cómo controlar una pantalla LCD mediante comunicación I²C usando únicamente dos líneas de conexión.
